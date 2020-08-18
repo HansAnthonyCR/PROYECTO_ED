@@ -24,5 +24,6 @@ public class App {
         VP.setLocationRelativeTo(null);
         VP.setVisible(true);
         VP.show();
+        System.out.println("Hola mundo");
     }
 }
