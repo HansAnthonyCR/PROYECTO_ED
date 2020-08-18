@@ -26,6 +26,4 @@ public class App {
         VP.show();
         System.out.println("Hola mundo");
     }
-    
-    sout.out.print("Hola a todos!");
 }
